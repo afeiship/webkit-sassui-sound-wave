@@ -1,19 +1,19 @@
 /*!
- * name: @feizheng/webkit-sassui-sound-wave
+ * name: @jswork/wsui-sound-wave
  * description: Sound wave effect for webkit sassui.
- * homepage: https://github.com/afeiship/webkit-sassui-sound-wave
+ * homepage: https://github.com/afeiship/wsui-sound-wave
  * version: 1.0.0
- * date: 2020-09-20T14:09:27.735Z
+ * date: 2021-02-26 21:32:22
  * license: MIT
  */
-/*webkit-sassui-sound-wave Start*/
-.webkit-sassui-sound-wave {
+/*wsui-sound-wave Start*/
+.wsui-sound-wave {
   width: 250px;
   height: 100px;
   display: flex;
   justify-content: space-around;
   align-items: center; }
-  .webkit-sassui-sound-wave .bar {
+  .wsui-sound-wave .bar {
     display: block;
     width: 2px;
     margin-right: 1px;
@@ -22,7 +22,7 @@
     -webkit-animation: sound 0ms -800ms linear infinite alternate;
             animation: sound 0ms -800ms linear infinite alternate;
     transition: height 0.8s; }
-  .webkit-sassui-sound-wave .bar2 {
+  .wsui-sound-wave .bar2 {
     display: block;
     width: 2px;
     margin-right: 1px;
@@ -63,85 +63,85 @@
   100% {
     opacity: 1;
     height: 120px; } }
-  .webkit-sassui-sound-wave .bar:nth-child(1) {
+  .wsui-sound-wave .bar:nth-child(1) {
     height: 2px;
     -webkit-animation-duration: 474ms;
             animation-duration: 474ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(2) {
+  .wsui-sound-wave .bar:nth-child(2) {
     height: 10px;
     -webkit-animation-duration: 433ms;
             animation-duration: 433ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(3) {
+  .wsui-sound-wave .bar:nth-child(3) {
     height: 18px;
     -webkit-animation-duration: 407ms;
             animation-duration: 407ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(4) {
+  .wsui-sound-wave .bar:nth-child(4) {
     height: 26px;
     -webkit-animation-duration: 458ms;
             animation-duration: 458ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(5) {
+  .wsui-sound-wave .bar:nth-child(5) {
     height: 30px;
     -webkit-animation-duration: 400ms;
             animation-duration: 400ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(6) {
+  .wsui-sound-wave .bar:nth-child(6) {
     height: 32px;
     -webkit-animation-duration: 427ms;
             animation-duration: 427ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(7) {
+  .wsui-sound-wave .bar:nth-child(7) {
     height: 34px;
     -webkit-animation-duration: 441ms;
             animation-duration: 441ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(8) {
+  .wsui-sound-wave .bar:nth-child(8) {
     height: 36px;
     -webkit-animation-duration: 419ms;
             animation-duration: 419ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(9) {
+  .wsui-sound-wave .bar:nth-child(9) {
     height: 40px;
     -webkit-animation-duration: 487ms;
             animation-duration: 487ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(10) {
+  .wsui-sound-wave .bar:nth-child(10) {
     height: 46px;
     -webkit-animation-duration: 442ms;
             animation-duration: 442ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(11) {
+  .wsui-sound-wave .bar:nth-child(11) {
     height: 2px;
     -webkit-animation-duration: 474ms;
             animation-duration: 474ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(12) {
+  .wsui-sound-wave .bar:nth-child(12) {
     height: 10px;
     -webkit-animation-duration: 433ms;
             animation-duration: 433ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(13) {
+  .wsui-sound-wave .bar:nth-child(13) {
     height: 18px;
     -webkit-animation-duration: 407ms;
             animation-duration: 407ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(14) {
+  .wsui-sound-wave .bar:nth-child(14) {
     height: 26px;
     -webkit-animation-duration: 458ms;
             animation-duration: 458ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(15) {
+  .wsui-sound-wave .bar:nth-child(15) {
     height: 30px;
     -webkit-animation-duration: 400ms;
             animation-duration: 400ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(16) {
+  .wsui-sound-wave .bar:nth-child(16) {
     height: 32px;
     -webkit-animation-duration: 427ms;
             animation-duration: 427ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(17) {
+  .wsui-sound-wave .bar:nth-child(17) {
     height: 34px;
     -webkit-animation-duration: 441ms;
             animation-duration: 441ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(18) {
+  .wsui-sound-wave .bar:nth-child(18) {
     height: 36px;
     -webkit-animation-duration: 419ms;
             animation-duration: 419ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(19) {
+  .wsui-sound-wave .bar:nth-child(19) {
     height: 40px;
     -webkit-animation-duration: 487ms;
             animation-duration: 487ms; }
-  .webkit-sassui-sound-wave .bar:nth-child(20) {
+  .wsui-sound-wave .bar:nth-child(20) {
     height: 46px;
     -webkit-animation-duration: 442ms;
             animation-duration: 442ms; }
 
-/*webkit-sassui-sound-wave End*/
+/*wsui-sound-wave End*/

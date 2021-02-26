@@ -1,23 +1,23 @@
 /*!
- * name: @feizheng/webkit-sassui-sound-wave
+ * name: @jswork/wsui-sound-wave
  * description: Sound wave effect for webkit sassui.
- * homepage: https://github.com/afeiship/webkit-sassui-sound-wave
+ * homepage: https://github.com/afeiship/wsui-sound-wave
  * version: 1.0.0
- * date: 2020-09-20T14:09:27.735Z
+ * date: 2021-02-26 21:32:22
  * license: MIT
  */
 
-/*webkit-sassui-sound-wave Start*/
-$webkit-sassui-sound-wave-options: (
+/*wsui-sound-wave Start*/
+$wsui-sound-wave-options: (
   width: 250px,
   height: 100px,
   color: #7c93bf,
 ) !default;
 
-.webkit-sassui-sound-wave {
-  $color: map-get( $map: $webkit-sassui-sound-wave-options, $key: color, );
-  $width: map-get( $map: $webkit-sassui-sound-wave-options, $key: width, );
-  $height: map-get( $map: $webkit-sassui-sound-wave-options, $key: height, );
+.wsui-sound-wave {
+  $color: map-get( $map: $wsui-sound-wave-options, $key: color, );
+  $width: map-get( $map: $wsui-sound-wave-options, $key: width, );
+  $height: map-get( $map: $wsui-sound-wave-options, $key: height, );
 
   width: $width;
   height: $height;
@@ -167,4 +167,4 @@ $webkit-sassui-sound-wave-options: (
     animation-duration: 442ms;
   }
 }
-/*webkit-sassui-sound-wave End*/
+/*wsui-sound-wave End*/
